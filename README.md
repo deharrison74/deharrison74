@@ -18,13 +18,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/deharrison74" target="blank"><img align="center" src="https://api.iconify.design/fa6-brands:x-twitter.svg" alt="deharrison74" height="30" width="40" /></a>
+<a href="https://twitter.com/deharrison74" target="blank"><img align="center" src="https://api.iconify.design/fa6-brands:x-twitter.svg?color=%23ffffff" alt="deharrison74" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harris george" target="blank"><img align="center" src="https://api.iconify.design/devicon:linkedin.svg" alt="harris george" height="30" width="40" /></a>
 <a href="https://fb.com/harris george" target="blank"><img align="center" src="https://api.iconify.design/devicon:facebook.svg" alt="harris george" height="30" width="40" /></a>
 <a href="https://instagram.com/deharrison74" target="blank"><img align="center" src="https://api.iconify.design/skill-icons:instagram.svg" alt="deharrison74" height="30" width="40" /></a>
 <a href="https://dribbble.com/harris george" target="blank"><img align="center" src="https://api.iconify.design/logos:dribbble-icon.svg" alt="harris george" height="30" width="40" /></a>
 <a href="https://www.behance.net/harris george" target="blank"><img align="center" src="https://api.iconify.design/devicon:behance.svg" alt="harris george" height="30" width="40" /></a>
-<a href="https://medium.com/@deharrison74" target="blank"><img align="center" src="https://api.iconify.design/carbon:logo-medium.svg" alt="@deharrison74" height="30" width="40" /></a>
+<a href="https://medium.com/@deharrison74" target="blank"><img align="center" src="https://api.iconify.design/bi:medium.svg?color=%23ffffff" alt="@deharrison74" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,6 +38,6 @@
 <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos:invision-icon.svg?color=%23888888" alt="invision" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon:javascript.svg?color=%23888888" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon:mysql-wordmark.svg?color=%23888888" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos:adobe-xd.svg?color=%23888888" alt="xd" width="40" height="40"/> </a> </p>
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos:adobe-xd.svg?color=%23888888"(https://api.iconify.design/bi:medium.svg)" alt="xd" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deharrison74&show_icons=true&locale=en&layout=compact" alt="deharrison74" /></p>
