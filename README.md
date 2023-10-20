@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/deharrison74" target="blank"><img src="https://img.shields.io/twitter/follow/deharrison74?logo=twitter&style=for-the-badge" alt="deharrison74" /></a> </p>
 
+<img align="right" height="210" width="310" alt="coding" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+
 - 🔭 I’m currently working on **Pawpals - A pet care app.**
 
 - 🌱 I’m currently learning **JavaScript ES6**
