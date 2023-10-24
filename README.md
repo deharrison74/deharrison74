@@ -41,3 +41,7 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos:adobe-xd.svg?color=%23888888"(https://api.iconify.design/bi:medium.svg)" alt="xd" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deharrison74&show_icons=true&locale=en&layout=compact" alt="deharrison74" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deharrison74&show_icons=true&locale=en" alt="deharrison74" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deharrison74&" alt="deharrison74" /></p>
