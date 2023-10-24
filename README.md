@@ -42,6 +42,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deharrison74&show_icons=true&locale=en&layout=compact" alt="deharrison74" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deharrison74&show_icons=true&locale=en" alt="deharrison74" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deharrison74&" alt="deharrison74" /></p>
