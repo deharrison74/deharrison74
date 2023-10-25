@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript ES6**
 
-- 📝 I regularly write articles on [https://medium.com/@deharrison74](https://medium.com/@deharrison74)
+- 📝 I regularly write blogs on [https://medium.com/@deharrison74](https://medium.com/@deharrison74)
 
 - 📫 How to reach me **deharrison21@gmail.com**
 
