@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deharrison74&label=Profile%20views&color=0e75b6&style=flat" alt="deharrison74" /> </p>
 
-<img align="right" height="210" width="310" alt="coding" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<img align="right" height="210" width="340" alt="coding" src="https://media.tenor.com/LkQzw7k5DV4AAAAd/anime-hacking.gif">
 
 - 🔭 I’m currently working on **Pawpals - A pet care app.**
 
