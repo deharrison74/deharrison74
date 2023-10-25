@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deharrison74&label=Profile%20views&color=0e75b6&style=flat" alt="deharrison74" /> </p>
 
-<img align="right" height="210" width="340" alt="coding" src="https://media.tenor.com/LkQzw7k5DV4AAAAd/anime-hacking.gif">
+<img align="right" height="210" width="340" alt="coding" src="https://kratikal.com/blog/wp-content/uploads/2023/02/key-click-typing-1.gif">
 
 - 🔭 I’m currently working on **Pawpals - A pet care app.**
 
